@@ -9,6 +9,7 @@
 ![Alt text](image-3.png)
 ![Alt text](image.png)
 
-2. Merge sort:  Each sub piece has its own numbers and you keep breaking and breaking until there is one piece each other, with their own numbers.
+2. Merge sort:  Each sub piece has its own numbers and you keep breaking and breaking until there is one piece each other, with their own number
 
 ![Alt text](image-5.png)
+![Alt text](image-6.png)
